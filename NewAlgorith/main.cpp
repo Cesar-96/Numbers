@@ -4,6 +4,7 @@ using namespace std;
 //Ingresa numero y ver si es perfecto (for)
 /*int main()
 {
+
     int num ,div=0,i;
     cout<<"ingresa el num"<<endl;
     cin>>num;
